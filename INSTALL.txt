@@ -1,0 +1,3 @@
+INSTALLATION INSTRUCTION
+========================
+Manual MySQL & PHP Installation is required. Instructions Coming Soon.
